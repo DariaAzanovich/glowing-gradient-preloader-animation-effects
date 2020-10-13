@@ -37,10 +37,24 @@ body {
   0% {
     -webkit-transform: rotate(0deg);
             transform: rotate(0deg);
+    border-color: hotpink;
+  }
+  20% {
+    border-color: chocolate;
+  }
+  40% {
+    border-color: rebeccapurple;
+  }
+  60% {
+    border-color: paleturquoise;
+  }
+  80% {
+    border-color: cornflowerblue;
   }
   100% {
     -webkit-transform: rotate(360deg);
             transform: rotate(360deg);
+    border-color: hotpink;
   }
 }
 
@@ -48,10 +62,24 @@ body {
   0% {
     -webkit-transform: rotate(0deg);
             transform: rotate(0deg);
+    border-color: hotpink;
+  }
+  20% {
+    border-color: chocolate;
+  }
+  40% {
+    border-color: rebeccapurple;
+  }
+  60% {
+    border-color: paleturquoise;
+  }
+  80% {
+    border-color: cornflowerblue;
   }
   100% {
     -webkit-transform: rotate(360deg);
             transform: rotate(360deg);
+    border-color: hotpink;
   }
 }
 /*# sourceMappingURL=main.css.map */
