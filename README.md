@@ -6,7 +6,7 @@
 Ring form preloader with a floating color gradient on css.
 ***
 
-# Useful webs
+### Useful webs
 + [Примеры прелоадеров](https://nisnom.com/preloadery-loader/)
 + [MDN: animation](https://developer.mozilla.org/ru/docs/Web/CSS/animation)
 + [MDN: Использование CSS-анимации](https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Animations/Ispolzovanie_CSS_animatciy)
