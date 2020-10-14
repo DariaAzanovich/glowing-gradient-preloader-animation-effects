@@ -1,6 +1,6 @@
 ## glowing-gradient-preloader-animation-effects
 
-[Just click here]()
+[Just click here](https://dariaazanovich.github.io/glowing-gradient-preloader-animation-effects/)
 
 ### Description
 Ring form preloader with a floating color gradient on css.
